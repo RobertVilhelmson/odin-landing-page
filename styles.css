@@ -144,3 +144,40 @@ img {
     font-size: 24px;
 }
 
+.bot-signup {
+    border: 5px solid red;
+    background-color: #3882f6;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    height: 100px;
+    border-radius: 10px;
+    display: flex;
+    color: #f9faf8;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.action {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.bot-all-text {
+    flex-direction: column;
+    display: flex;
+    margin: 25px;
+}
+
+.bot-button {
+    display: flex;
+    height: 40px;
+    width: 125px;
+    border-radius: 10px;
+    border: 3px solid white;
+    justify-content: space-around;
+    font-weight: bold;
+    align-items: center;
+    margin-right: 20px;
+}
