@@ -150,6 +150,7 @@ img {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 100px;
+    margin-bottom: 100px;
     height: 100px;
     border-radius: 10px;
     display: flex;
@@ -180,4 +181,15 @@ img {
     font-weight: bold;
     align-items: center;
     margin-right: 20px;
+}
+
+footer {
+color: white;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.footer-background {
+    background-color: #1f2937;
 }
