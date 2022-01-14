@@ -48,7 +48,7 @@ body {
     font-size: larger; 
     display: flex;
     flex-direction: column;
-    height: 200px;
+    height: 250px;
     width: 500px;
 }
 .awesome-text {
@@ -66,20 +66,19 @@ body {
     align-items: center;
     justify-content: space-around;
     background-color: gray;
-    height: 200px;
+    height: 250px;
     width: 500px;
 }
 
 .signup {
     display: flex;
-    border: 5px #3882f6;
-    height: 30px;
-    width: 100px;
+    height: 40px;
+    width: 125px;
     border-radius: 10px;
     background-color: #3882f6;
-    align-items: center;
     justify-content: space-around;
     font-weight: bold;
+    align-items: center;
     margin-top: 10px;
 }
 
